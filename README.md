@@ -1,84 +1,33 @@
-<!DOCTYPE html>
-<html lang="en">
+# 👋 Hi, I’m @wazeer ahmed
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>@wazeer666's GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f8f8f8;
-    }
+Welcome to my GitHub profile! I'm a passionate software developer with expertise in React, React Native, Python, Django, and Django Rest Framework.
 
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-    }
+## 👀 I’m interested in ...
 
-    h1 {
-      color: #333;
-    }
+- Building innovative software solutions
+- Exploring new technologies and frameworks
+- Contributing to open-source projects
 
-    p {
-      color: #666;
-    }
+## 🌱 I’m currently learning ...
 
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
+I'm constantly learning and improving my skills in software development. Currently, I'm focused on mastering advanced React and Django concepts.
 
-    li {
-      margin-bottom: 10px;
-    }
+## 💞️ I’m looking to collaborate on ...
 
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
+I'm open to collaboration opportunities on exciting projects related to web and mobile development. Feel free to reach out if you have an interesting project in mind!
 
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
+## 📫 How to reach me ...
 
-<body>
-  <div class="container">
-    <h1>👋 Hi, I’m @wazeer666</h1>
-    <p>Welcome to my GitHub profile! I'm a passionate software developer with expertise in React, React Native, Python, Django, and Django Rest Framework.</p>
+You can reach me via:
 
-    <h2>👀 I’m interested in ...</h2>
-    <ul>
-      <li>Building innovative software solutions</li>
-      <li>Exploring new technologies and frameworks</li>
-      <li>Contributing to open-source projects</li>
-    </ul>
+- Email: mailtowazeer@gmail.com
+- LinkedIn: https://www.linkedin.com/in/wazeer_ahmed/)
 
-    <h2>🌱 I’m currently learning ...</h2>
-    <p>I'm constantly learning and improving my skills in software development. Currently, I'm focused on mastering advanced React and Django concepts.</p>
+## 😄 Pronouns
 
-    <h2>💞️ I’m looking to collaborate on ...</h2>
-    <p>I'm open to collaboration opportunities on exciting projects related to web and mobile development. Feel free to reach out if you have an interesting project in mind!</p>
+He/Him
 
-    <h2>📫 How to reach me ...</h2>
-    <ul>
-      <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-      <li>LinkedIn: <a href="https://www.linkedin.com/in/yourusername/">Your LinkedIn Profile</a></li>
-      <li>Twitter: <a href="https://twitter.com/YourTwitterHandle">@YourTwitterHandle</a></li>
-    </ul>
+## ⚡ Fun fact
 
-    <h2>😄 Pronouns</h2>
-    <p>He/Him</p>
+In my free time, I enjoy hiking and exploring new hiking trails. Ask me about my favorite hiking spots around the world!
 
-    <h2>⚡ Fun fact</h2>
-    <p>In my free time, I enjoy hiking and exploring new hiking trails. Ask me about my favorite hiking spots around the world!</p>
-  </div>
-</body>
-
-</html>
